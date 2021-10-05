@@ -1,6 +1,6 @@
 ---
 title: Thank you
-permalink: /page-1/index.html
+permalink: ""
 socialImage: /images/2.jpg
 ---
 
