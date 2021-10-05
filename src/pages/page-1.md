@@ -1,6 +1,6 @@
 ---
 title: Tour page
-permalink: ""
+permalink: /tours
 socialImage: ""
 ---
 
