@@ -1,5 +1,5 @@
 ---
-title: Thank you
+title: Test
 permalink: ""
 socialImage: /images/2.jpg
 ---
